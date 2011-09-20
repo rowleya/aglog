@@ -1,0 +1,9 @@
+<aglog>
+    <!-- <param name="venue"></param> -->
+    <!-- <param name="server">https://sam.ag.manchester.ac.uk:8000/VenueServer</param>
+    <param name="server">https://fraser.ag.manchester.ac.uk:8000/VenueServer</param> -->
+    <param name="server">https://rosie.rcs.manchester.ac.uk:8000/VenueServer</param>
+    <param name="logRtpData">false</param>
+    <!-- <param name="logFile">agtk.log</param> -->
+    <param name="knownAddressesFile">sample-known-addresses.properties</param>
+</aglog>
